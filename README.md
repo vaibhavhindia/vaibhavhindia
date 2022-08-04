@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vaibhav Hindia
 #### Aspiring Data Scientist
-![Aspiring Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Aspiring Data Scientist](https://github.com/vaibhavhindia/vaibhavhindia/blob/main/1_E1haIGB9K4K89PsFZgm-pw.jpeg)
 
 Looking for an opportunity to work on Data science field 
 
